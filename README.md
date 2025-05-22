@@ -40,7 +40,7 @@ GreenCart is a responsive, full-stack grocery e-commerce web application with tw
 | **Auth**     | JWT, bcrypt                                        |
 | **Payments** | Stripe                                             |
 | **Media**    | Cloudinary (for product image hosting)            |
-| **Deployment** | Vercel (Frontend), Render (Backend)            |
+| **Deployment** | Vercel (Frontend),(Backend)            |
 
 ---
 
