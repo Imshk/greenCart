@@ -46,19 +46,17 @@ GreenCart is a responsive, full-stack grocery e-commerce web application with tw
 
 ## 🚀 Setup Instructions (Coming Soon)
 
-> If you’d like setup instructions or a Docker version added, feel free to ask!
+
 
 ---
 
-## 📸 Screenshots (Optional)
 
-> You can upload UI screenshots here if desired for more visual appeal.
 
 ---
 
 ## 👨‍💻 Author
 
-- Developed by [Your Name](https://github.com/yourusername)
+- Developed by [Shashank Dwivedi](https://github.com/Imshk)
 
 ---
 
